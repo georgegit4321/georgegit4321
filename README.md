@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @georgegit4321
+👋 Hi, I’m @georgegit4321
 
 <!---
 georgegit4321/georgegit4321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
